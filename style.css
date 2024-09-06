@@ -10,7 +10,7 @@ body{
 }
 .resume-box{
 	width: 800px;
-	height: 1500px;
+	height: 1200px;
 	margin: 0 auto;
 	background-color: white;
 }
@@ -21,7 +21,7 @@ body{
 	background-color: #26252d;
 	width: 35%;
 	float: left;
-	height: 1000px;
+	height: 1200px;
 }
 
 .box-2{
